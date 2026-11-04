@@ -1,0 +1,1 @@
+# Aplicaci-n-para-administrar-ventas-inventario-clientes-fiados-y-cobros.
